@@ -19,7 +19,7 @@ import java.util.Locale;
 import java.util.Random;
 
 public class Game extends AppCompatActivity {
-    //define ALL Component and initialize them
+    //define ALL Component and initialize them at the start of the activity
     TextView score, life, time, question;
     EditText answer;
     Button btnOK, btnNext;
